@@ -17,4 +17,3 @@ services:
 networks:
   shared:
     external: true
-    name: shared
